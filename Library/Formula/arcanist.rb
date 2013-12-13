@@ -3,7 +3,7 @@ require 'formula'
 class Arcanist < Formula
   class Libphutil < Formula
     url 'https://github.com/facebook/libphutil/zipball/84cac75fbcc7b4450aa9f3ada1c504737393d28d'
-    sha1 '5e72bc5191f821be38accffea2a59a5db5e0b2a7'
+    sha1 '8e8763a3a9bb691a4eeaad65f326f41992656d13'
     version '1.0.2'
   end
 
